@@ -60,7 +60,7 @@ while IFS= read -r line; do
     done
     echo -e # Passe à la ligne suivante
     sleep 0.05
-done < $HOME/Documents/Pool_Party/drawing.txt
+done < $HOME/Documents/script/PoolParty/drawing.txt
 
 
 echo -e "${YELLOW}"
